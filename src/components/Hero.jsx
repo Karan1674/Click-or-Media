@@ -146,7 +146,7 @@ export default function Hero({
       </div>
 
       <a
-        href="https://wa.me/916284794552?text=Hi%20Click%20Or%20Media,%20I%20would%20like%20to%20discuss%20a%20project!"
+        href="https://wa.me/916284754552?text=Hi%20Click%20Or%20Media,%20I%20would%20like%20to%20discuss%20a%20project!"
         target="_blank"
         rel="noopener noreferrer"
         className="floating-whatsapp-btn"
